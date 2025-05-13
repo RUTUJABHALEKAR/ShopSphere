@@ -25,9 +25,9 @@ ShopSphere is a full-stack E-commerce web application built using the **MERN Sta
 
 ## 📁 Project Structure
 
--/admin: Admin panel to manage products
--/frontend: User-facing React frontend
--/backend: Express backend for APIs and MongoDB
+- /admin: Admin panel to manage products
+- /frontend: User-facing React frontend
+- /backend: Express backend for APIs and MongoDB
 
 ---
 
@@ -49,6 +49,6 @@ ShopSphere is a full-stack E-commerce web application built using the **MERN Sta
 
 ### ✍️ Author 
 
--Developed by Rutuja Bhalekar
+Developed by Rutuja Bhalekar
 
 
